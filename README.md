@@ -37,6 +37,9 @@ Note: Minor version inconsistencies may require troubleshooting some errors but 
 ## link to the paper
 https://ieeexplore.ieee.org/document/10945458
 
+## link to the codes
+https://github.com/copawloroous/SGMAE
+
 ## Authors
 Zhenghao Hu is currently pursuing the B.Sc.Eng. degree in Optoelectronic Information Science and 
 Engineering at the School of Physics and Optoelectronic Engineering, Nanjing University of Information 
