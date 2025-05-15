@@ -34,6 +34,8 @@ Note: Minor version inconsistencies may require troubleshooting some errors but 
 
 <input type="checkbox" disabled checked> A high-performance computing card may be necessary, such as the RTX 4090.
 
+## link to the paper
+https://ieeexplore.ieee.org/document/10945458
 
 ## Authors
 Zhenghao Hu is currently pursuing the B.Sc.Eng. degree in Optoelectronic Information Science and 
