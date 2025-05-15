@@ -1,4 +1,4 @@
-### S2GAE--Self-Supervised Graph Masked Autoencoders for Hyperspectral Image Classification
+### SGMAE--Self-Supervised Graph Masked Autoencoders for Hyperspectral Image Classification
 
 ### Recommended Versions for Major Third-party Libraries
 
