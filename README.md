@@ -1,7 +1,7 @@
 # SGMAE: Self-Supervised Graph Masked Autoencoders for Hyperspectral Image Classification
 
 > IEEE Transactions on Geoscience and Remote Sensing (2025)  
-> [Paper](https://ieeexplore.ieee.org/document/10945458) | [Code](https://github.com/copawloroous/SGMAE)
+> [Paper](https://ieeexplore.ieee.org/document/10945458) | [Code](https://github.com/copawloroous/SGMAE) | [​Relevant Introduction](https://wdy.nuist.edu.cn/2025/0429/c7358a286472/page.htm)
 
 ## Environment Requirements
 | Library         | Version      |
