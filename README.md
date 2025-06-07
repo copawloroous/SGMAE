@@ -30,7 +30,7 @@
   School of Physics and Optoelectronic Engineering  
   Nanjing University of Information Science and Technology, China  
   Email: [202213880076@nuist.edu.cn](mailto:202213880076@nuist.edu.cn)  
-  Research: Hyperspectral Image Processing, Computer Vision, Machine Learning
+  Research: Hyperspectral Image Processing, Computer Vision, Machine Learning  
   [Google Scholar](https://scholar.google.com/citations?user=F5Qx7kAAAAAJ&hl=zh-CN&oi=sra) | [Github Profile](https://github.com/copawloroous) | [ORCID Profile](https://ieeexplore.ieee.org/author/721998129448425) | [IEEE Profile](https://ieeexplore.ieee.org/author/721998129448425)
 
 
