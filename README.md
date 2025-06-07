@@ -1,54 +1,44 @@
-### SGMAE--Self-Supervised Graph Masked Autoencoders for Hyperspectral Image Classification
+# SGMAE: Self-Supervised Graph Masked Autoencoders for Hyperspectral Image Classification
 
-### Recommended Versions for Major Third-party Libraries
+> IEEE Transactions on Geoscience and Remote Sensing (2025)  
+> [Paper](https://ieeexplore.ieee.org/document/10945458) | [Code](https://github.com/copawloroous/SGMAE)
 
-python                    3.8.18
+## Environment Requirements
+| Library         | Version      |
+|-----------------|--------------|
+| Python          | 3.8.18       |
+| PyTorch         | 1.12.1       |
+| torch-geometric | 2.4.0        |
+| scikit-learn    | 1.3.2        |
+| numpy           | 1.23.5       |
 
-torch                     1.12.1+cu113
+> ​**Note**: CUDA extensions (e.g., `+cu113`) are backend-specific. Minor version inconsistencies may require troubleshooting but do not affect core functionality.
 
-torch-geometric           2.4.0
-
-torch-scatter             2.1.0+pt112cu113
-
-torch-sparse              0.6.15+pt112cu113
-
-torchaudio                0.12.1+cu113
-
-torchinfo                 1.8.0
-
-torchvision               0.13.1+cu113
-
-
-scikit-learn              1.3.2
-
-numpy                     1.23.5
-
-matplotlib                3.7.4
-
-Note: Minor version inconsistencies may require troubleshooting some errors but won't affect overall operation.
-
-## Tips:
-<input type="checkbox" disabled checked> If you want to use self-supervised feature extraction, select "y" for S2GAE in the arguments. If you want to compare the scenario without self-supervised feature extraction, select "n" for S2GAE in the arguments.
-
-<input type="checkbox" disabled checked> This hyperparameter setting may only be applicable to the Houston 2018 dataset.
-
-<input type="checkbox" disabled checked> A high-performance computing card may be necessary, such as the RTX 4090.
-
-## link to the paper
-https://ieeexplore.ieee.org/document/10945458
-
-## link to the codes
-https://github.com/copawloroous/SGMAE
+## Usage Instructions
+1. ​**Self-Supervised Feature Extraction**​  
+   Set `S2GAE=y` in arguments to enable graph autoencoder pre-training.
+2. ​**Baseline Comparison**​  
+   Set `S2GAE=n` to run without self-supervised features.
+3. ​**Dataset Compatibility**​  
+   Current hyperparameters are optimized for the [Houston 2018 dataset](https://pan.baidu.com/s/1hnVsruXw1QozOeUVh8Fymw?pwd=UIST). 
+4. ​**Hardware Recommendation**​  
+   An NVIDIA RTX 4090 or equivalent GPU is recommended for training efficiency.
 
 ## Authors
-Zhenghao Hu is currently pursuing the B.Sc.Eng. degree in Optoelectronic Information Science and 
-Engineering at the School of Physics and Optoelectronic Engineering, Nanjing University of Information 
-Science and Technology, Nanjing, China. His research focuses on hyperspectral image processing, 
-computer vision and machine learning.
+- ​**Zhenghao Hu**​  
+  B.Sc.Eng. Candidate, Optoelectronic Information Science and Engineering  
+  School of Physics and Optoelectronic Engineering  
+  Nanjing University of Information Science and Technology, China  
+  Email: [202213880076@nuist.edu.cn](mailto:202213880076@nuist.edu.cn)  
+  Research: Hyperspectral Image Processing, Computer Vision, Machine Learning
+  
+  [Google Scholar](https://scholar.google.com/citations?user=F5Qx7kAAAAAJ&hl=zh-CN&oi=sra) | [Github Profile](https://github.com/copawloroous) | [ORCID Profile](https://ieeexplore.ieee.org/author/721998129448425) | [IEEE Profile](https://ieeexplore.ieee.org/author/721998129448425)
 
-Advisor: Bing Tu (Professor and PhD Supervisor at Nanjing University of Information Science & Technology)
 
-
+- ​**Advisor: Prof. Bing Tu**​  
+  Professor and PhD Supervisor  
+  Nanjing University of Information Science & Technology  
+  [Google Scholar](https://scholar.google.com/citations?user=iMuSewsAAAAJ&hl=zh-CN&oi=sra) | [University Profile](https://faculty.nuist.edu.cn/tubing/zh_CN/index.htm)
 
 ## Citation
 
