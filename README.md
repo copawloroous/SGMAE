@@ -18,7 +18,7 @@
 
 </div>
 
-## :blush: Should you encounter any issues, feel free to contact the author at any time! If this project helps you, please give it a ⭐ ！
+## 🤗Should you encounter any issues, feel free to contact the author at any time! If this project helps you, please give it a ⭐ ！
 
 ## Environment Requirements
 | Library         | Version      |
