@@ -48,7 +48,7 @@
   Nanjing University of Information Science and Technology, China  
   Email: [202213880076@nuist.edu.cn](mailto:202213880076@nuist.edu.cn)  
   Research: Hyperspectral Image Processing, Computer Vision, Machine Learning  
-  [Google Scholar](https://scholar.google.com/citations?user=F5Qx7kAAAAAJ&hl=zh-CN&oi=sra) | [Github Profile](https://github.com/copawloroous) | [ORCID Profile](https://ieeexplore.ieee.org/author/721998129448425) | [IEEE Profile](https://ieeexplore.ieee.org/author/721998129448425)
+  [Google Scholar](https://scholar.google.com/citations?user=F5Qx7kAAAAAJ&hl=zh-CN&oi=sra) | [Github Profile](https://github.com/copawloroous) | [ORCID Profile](https://orcid.org/0009-0004-0285-5763) | [IEEE Profile](https://ieeexplore.ieee.org/author/721998129448425)
 
 
 - ​**Advisor: Prof. Bing Tu**​  
