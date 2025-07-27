@@ -33,7 +33,7 @@
 
 ## Usage Instructions
 1. ​**Self-Supervised Feature Extraction**​  
-   Set `S2GAE=y` in arguments to enable graph autoencoder pre-training.
+   Set `S2GAE=y` in arguments of main.py to enable graph autoencoder pre-training.
 2. ​**Baseline Comparison**​  
    Set `S2GAE=n` to run without self-supervised features.
 3. ​**Dataset Compatibility**​  
