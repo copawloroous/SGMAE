@@ -33,12 +33,14 @@
 
 ## Usage Instructions
 1. ​**Self-Supervised Feature Extraction**​  
-   Set `S2GAE=y` in arguments of main.py to enable graph autoencoder pre-training.
+   Set `S2GAE=y` in arguments of [main.py](main.py) to enable graph autoencoder pre-training.
 2. ​**Baseline Comparison**​  
    Set `S2GAE=n` to run without self-supervised features.
-3. ​**Dataset Compatibility**​  
+3. ​**Method Comparison**​  
+   Run [CNN/main.py](Method%20Comparison/CNN/main.py) or [SSRN/main.py](Method%20Comparison/SSRN/main.py).
+4. ​**Dataset Compatibility**​  
    Current hyperparameters are optimized for the [Houston 2018 dataset](https://pan.baidu.com/s/1hnVsruXw1QozOeUVh8Fymw?pwd=UIST). 
-4. ​**Hardware Recommendation**​  
+5. ​**Hardware Recommendation**​  
    An NVIDIA RTX 4090 or equivalent GPU is recommended for training efficiency. If you encounter an error indicating insufficient GPU memory, you can try reducing the pca_components to 20 or decreasing the patch_size to 5.
 
 ## This is an experiment the author has run for you to demonstrate the code execution results. Feel free to reproduce it!
