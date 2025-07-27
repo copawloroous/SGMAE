@@ -692,4 +692,5 @@ if __name__ == '__main__':
         print('\n AA: %.2f, std: %.2f ' % (np.mean(aa), np.std(aa)))
         print('\n Kappa: %.2f, std: %.2f ' % (np.mean(kappa), np.std(kappa)))
 
+        print('\n\n Drawing the Map...... ')
         get_cls_map.get_cls_map(net, device, all_data_loader, all_data_loader_whole, y)
