@@ -12,7 +12,7 @@
 [Antonio Plaza](https://ieeexplore.ieee.org/author/37299689800)<sup>7 </sup>
 
 > IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS 2025)  
-> [Paper](https://ieeexplore.ieee.org/document/10945458) | [Code](https://github.com/copawloroous/SGMAE) | [​Relevant Introduction](https://wdy.nuist.edu.cn/2025/0429/c7358a286472/page.htm)
+> [Paper](https://ieeexplore.ieee.org/document/10945458) | [Code](https://github.com/copawloroous/SGMAE) | [​Relevant Introduction](https://wdy.nuist.edu.cn/2025/0429/c7358a286472/page.htm) | [​中文版](https://wdy.nuist.edu.cn/2025/0429/c7358a286472/page.htm)
 
 <sup>1</sup> the Institute of Optics and Electronics, <sup>2</sup> the State Key Laboratory Cultivation Base of Atmospheric Optoelectronic Detection and Information Fusion, <sup>3</sup> Jiangsu International Joint Laboratory on Meteorological Photonics and Optoelectronic Detection, <sup>4</sup> Jiangsu Engineering Research Center for Intelligent Optoelectronic Sensing Technology of Atmosphere, <sup>5</sup> Nanjing University of Information Science and Technology, Nanjing 210044, China, <sup>6</sup> the Faculty of Computer Science, China University of Geosciences, Wuhan 430074, China, <sup>7</sup> the Hyperspectral Computing Laboratory, Department of Technology of Computers and Communications, Escuela Politécnica, University of Extremadura, 10003 Cáceres, Spain, <sup>*</sup> Corresponding author
 
