@@ -39,7 +39,7 @@
 3. ​**Dataset Compatibility**​  
    Current hyperparameters are optimized for the [Houston 2018 dataset](https://pan.baidu.com/s/1hnVsruXw1QozOeUVh8Fymw?pwd=UIST). 
 4. ​**Hardware Recommendation**​  
-   An NVIDIA RTX 4090 or equivalent GPU is recommended for training efficiency.
+   An NVIDIA RTX 4090 or equivalent GPU is recommended for training efficiency. If you encounter an error indicating insufficient GPU memory, you can try reducing the pca_components to 20 or decreasing the patch_size to 5.
 
 ## Authors
 - ​**Zhenghao Hu**​  
@@ -68,5 +68,3 @@ If you find this code useful in your research, please cite the following paper:
   year={2025},
   publisher={IEEE}
 }
-
-## Q&A
