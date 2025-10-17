@@ -56,7 +56,14 @@ Computer Configuration: i9-12900KF | RTX 3090 Ti (24GB VRAM) | 64GB RAM
 - ​**Zhenghao Hu**​  
   B.Eng. Student in Optoelectronic Information Science and Engineering  
   School of Physics and Optoelectronic Engineering  
-  Nanjing University of Information Science and Technology, China  
+  Nanjing University of Information Science and Technology, China
+
+
+  Ph.D. Student in Pattern Recognition and Intelligent Systems  
+  Institute of Automation  
+  Chinese Academy of Sciences, China
+
+
   Email: [202213880076@nuist.edu.cn](mailto:202213880076@nuist.edu.cn)\ [huzhenghao2026@ia.ac.cn](mailto:huzhenghao2026@ia.ac.cn)  
   Research: Hyperspectral Image Processing, Computer Vision, Machine Learning, Image Fusion  
   [Google Scholar](https://scholar.google.com/citations?user=F5Qx7kAAAAAJ&hl=zh-CN&oi=sra) | [Github Profile](https://github.com/copawloroous) | [ORCID Profile](https://orcid.org/0009-0004-0285-5763) | [IEEE Profile](https://ieeexplore.ieee.org/author/721998129448425)
@@ -80,5 +87,6 @@ If you find this code useful in your research, please cite the following paper:
   year={2025},
   publisher={IEEE}
 }
+
 
 
