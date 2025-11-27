@@ -29,7 +29,7 @@
 | scikit-learn    | 1.3.2        |
 | numpy           | 1.23.5       |
 
-> ​**Note**: CUDA extensions (e.g., `+cu113`) are backend-specific. Minor version inconsistencies may require troubleshooting but do not affect core functionality. To install PyG (torch-geometric etc.), please check [tutorial](https://blog.csdn.net/copawloroous/article/details/140201394?spm=1001.2014.3001.5501).
+> ​**Note**: CUDA extensions (e.g., `+cu113`) are backend-specific. Minor version inconsistencies may require troubleshooting but do not affect core functionality. To install PyG (torch-geometric), please check [tutorial](https://blog.csdn.net/copawloroous/article/details/140201394?spm=1001.2014.3001.5501).
 
 ## Usage Instructions
 1. ​**Self-Supervised Feature Extraction**​  
@@ -87,3 +87,4 @@ If you find this code useful in your research, please cite the following paper:
   year={2025},
   publisher={IEEE}
 }
+
