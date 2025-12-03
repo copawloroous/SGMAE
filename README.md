@@ -51,11 +51,23 @@
    An NVIDIA RTX 4090 or equivalent GPU is recommended for training efficiency. If you encounter an error indicating insufficient GPU memory, you can try reducing the pca_components to 20 or decreasing the patch_size to 5.
 
 ## This is an experiment the author has run for you to demonstrate the code execution results. Feel free to reproduce it!
-| OA(in%)                     | SGMAE(y)                       | SGMAE(n)        | CNN           | SSRN          |
-| :-------------------------- | :----------------------------- | :-------------- | :------------ | :------------ |
-| patch_size=5                | 96.56                          | 93.35           | 91.81         | 93.48         |
-| patch_size=7                | 97.13                          | 95.04           | 92.93         | 95.64         |
-| training+test time(s)(patch_size=5) | 104.4(pretraining)+218.1+18.28 | 218.1+18.28     | 109.1+15.9    | 224.5+19.5    |
+
+## 📊 Overall Accuracy (OA, %) Under Different Patch Sizes
+
+| Patch Size | SGMAE (with pretraining) | SGMAE (no pretraining) | CNN   | SSRN  |
+|-----------:|--------------------------:|------------------------:|------:|------:|
+| **5**      | 96.56                     | 93.35                   | 91.81 | 93.48 |
+| **7**      | 97.13                     | 95.04                   | 92.93 | 95.64 |
+
+## ⏱️ Training & Testing Time (Patch Size = 5)
+
+| Method              | Pretraining Time (s) | Training Time (s) | Test Time (s) |
+|---------------------|----------------------:|------------------:|--------------:|
+| **SGMAE (y)**       | 104.4                | 218.1             | 18.28         |
+| **SGMAE (n)**       | –                    | 218.1             | 18.28         |
+| **CNN**             | –                    | 109.1             | 15.9          |
+| **SSRN**            | –                    | 224.5             | 19.5          |
+
 
 Computer Configuration: i9-12900KF | RTX 3090 Ti (24GB VRAM) | 64GB RAM
 
@@ -94,5 +106,6 @@ If you find this code useful in your research, please cite the following paper:
   year={2025},
   publisher={IEEE}
 }
+
 
 
