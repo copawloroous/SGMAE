@@ -84,7 +84,7 @@ Computer Configuration: i9-12900KF | RTX 3090 Ti (24GB VRAM) | 64GB RAM
 
 
   Email: [202213880076@nuist.edu.cn](mailto:202213880076@nuist.edu.cn)  
-  Research: Machine Learning, Computer Vision  
+  Research: Machine Learning, Computer Vision, Pattern Recognition  
   [Google Scholar](https://scholar.google.com/citations?user=F5Qx7kAAAAAJ&hl=zh-CN&oi=sra) | [Github Profile](https://github.com/copawloroous) | [ORCID Profile](https://orcid.org/0009-0004-0285-5763) | [IEEE Profile](https://ieeexplore.ieee.org/author/721998129448425)
 
 
@@ -106,6 +106,7 @@ If you find this code useful in your research, please cite the following paper:
   year={2025},
   publisher={IEEE}
 }
+
 
 
 
