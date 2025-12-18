@@ -26,9 +26,6 @@
 </div>
 
 
-![demo](demo.png)
-
-
 ## 🤗Should you encounter any issues, feel free to contact the author at any time! If this project helps you, please give it a ⭐ ！
 
 ## Environment Requirements
@@ -110,4 +107,5 @@ If you find this code useful in your research, please cite the following paper:
   year={2025},
   publisher={IEEE}
 }
+
 
