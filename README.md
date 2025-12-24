@@ -12,7 +12,7 @@
 [Antonio Plaza](https://ieeexplore.ieee.org/author/37299689800)<sup>7 </sup>
 
 > IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS 2025)  
-> [Paper](https://ieeexplore.ieee.org/document/10945458) | [Code](https://github.com/copawloroous/SGMAE) | [​Relevant Introduction](https://wdy.nuist.edu.cn/2025/0429/c7358a286472/page.htm) | [​中文版](https://pan.baidu.com/s/1ZZrkkLwWTy3zf3K5E7dwgA?pwd=abyr)
+> [Paper](https://ieeexplore.ieee.org/document/10945458) | [Code](https://github.com/copawloroous/SGMAE) | Relevant Introduction [[1]](https://wdy.nuist.edu.cn/2025/0429/c7358a286472/page.htm)  [[​2]](https://wdy.nuist.edu.cn/2025/1127/c2984a292554/page.htm) | [​中文版](https://pan.baidu.com/s/1ZZrkkLwWTy3zf3K5E7dwgA?pwd=abyr)
 
 <sup>1</sup> the Institute of Optics and Electronics,  
 <sup>2</sup> the State Key Laboratory Cultivation Base of Atmospheric Optoelectronic Detection and Information Fusion,  
@@ -107,5 +107,6 @@ If you find this code useful in your research, please cite the following paper:
   year={2025},
   publisher={IEEE}
 }
+
 
 
