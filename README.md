@@ -51,7 +51,7 @@
 5. ​**Hardware Recommendation**​  
    An NVIDIA RTX 4090 or equivalent GPU is recommended for training efficiency. If you encounter an error indicating insufficient GPU memory, you can try reducing the pca_components to 20 or decreasing the patch_size to 5.
 
-## This is an experiment the author has run for you to demonstrate the code execution results. Feel free to reproduce it!
+## This is an experiment the author has run for you to demonstrate the code execution results. Feel free to reproduce it!（Tested on Houston 2018 dataset.）
 
 ## 📊 Overall Accuracy (OA, %) Under Different Patch Sizes
 
@@ -107,3 +107,4 @@ If you find this code useful in your research, please cite the following paper:
   year={2025},
   publisher={IEEE}
 }
+
