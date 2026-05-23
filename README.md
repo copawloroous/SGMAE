@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 SGMAE
+#  SGMAE
 
 ### Self-Supervised Graph Masked Autoencoders for Hyperspectral Image Classification
 
